@@ -1,0 +1,8 @@
+PRODUCT_ID  NAME                          PROMOTION_NAME             DISCOUNT_PERCENTAGE
+----------  ----------------------------  -------------------------  -------------------
+1           Samsung 65" 4K Smart TV       Smart TV Summer Sale       10
+4           Dyson V11 Cordless Vacuum     Dyson Vacuum Flash Sale    15
+6           Xbox Series X                 Xbox Series X Deal         5
+7           Keurig K-Elite Coffee Maker   Coffee Maker Discount      20
+9           Coca-Cola Classic 12-Pack     Coca-Cola Super Deal       50
+12          Adidas Ultraboost 22          Adidas Ultraboost Deal     25

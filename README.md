@@ -25,7 +25,7 @@ expected/ # Example outputs of key queries
 
 privacy/
 └─ NOTICE.md # Data source & privacy disclaimer
-
+```
 
 ## Quickstart (Oracle SQL Developer)
 1. Connect to Oracle database schema

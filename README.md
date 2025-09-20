@@ -14,9 +14,7 @@ sql/
 ├─ 01_schema.sql # Create tables
 ├─ 02_indexes.sql # Add indexes
 ├─ 03_seed.sql # Insert sample data
-├─ 04_business_queries.sql# Business requirement queries
-├─ 05_reports.sql # (optional) Reporting queries
-└─ 90_cleanup.sql # (optional) Drop tables
+└─ 04_business_queries.sql# Business requirement queries
 
 expected/ # Example outputs of key queries
 ├─ monthly_sales_example.txt

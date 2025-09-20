@@ -9,7 +9,8 @@ Oracle SQL e-commerce schema (Best Buy style): normalized tables, indexes, seede
 - **Business queries**: product search, cart management, user lifecycle, shipping, refunds
 - **Reports**: monthly sales, popular products, customer categories
 
-## Repository Structure '''
+## Repository Structure
+```text
 sql/
 ├─ 01_schema.sql # Create tables
 ├─ 02_indexes.sql # Add indexes
@@ -24,7 +25,7 @@ expected/ # Example outputs of key queries
 
 privacy/
 └─ NOTICE.md # Data source & privacy disclaimer
-'''
+
 
 ## Quickstart (Oracle SQL Developer)
 1. Connect to Oracle database schema

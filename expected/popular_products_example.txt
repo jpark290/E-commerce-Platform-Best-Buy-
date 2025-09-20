@@ -1,0 +1,13 @@
+PRODUCT_ID  NAME                          ORDER_COUNT
+----------  ----------------------------  -----------
+5           Sony PlayStation 5            1
+6           Xbox Series X                 1
+4           Dyson V11 Cordless Vacuum     1
+8           Instant Pot Duo 7-in-1        1
+9           Coca-Cola Classic 12-Pack     1
+10          Pepsi 12-Pack                 1
+12          Adidas Ultraboost 22          1
+7           Keurig K-Elite Coffee Maker   1
+2           Apple iPhone 15 Pro           1
+3           LG Front Load Washer          1
+11          Nike Air Zoom Pegasus 39      1
